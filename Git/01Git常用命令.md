@@ -8,10 +8,19 @@ git push -u origin master
 ```
 
 
-## 提交到远程
+## 提交远程仓库
 ```sh
 git remote add origin https://github.com/kuzank/Program.git
 git push -u origin master
+```
+
+
+## 创建分支并提交远程仓库
+```sh
+git checkout -b new-branch
+git add .
+git commit -m "create new-branch"
+git push -u origin new-branch
 ```
 
 
