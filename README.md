@@ -12,13 +12,20 @@
 * [3、Spring Boot 中的 spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
 
 
-### jpa 
+### jpa 基础
+* [快速学习-Spring Data JPA的查询方式](https://cloud.tencent.com/developer/article/1608362)
+* [Spring-boot + JPA 实现组合查询](https://banbanpeppa.github.io/2019/01/25/java/spring/spring-jpa-muti-query/)
+* [SpringData JPA进阶查询—JPQL/原生SQL查询、分页处理、部分字段映射查询](https://blog.csdn.net/Phapha1996/article/details/78994395)
+
+### jpa 进阶
 * [SpringBoot实现JPA读写分离](https://ethendev.github.io/2018/12/17/JPA-MySQL-read-write-separation/)
 * [SpringBoot整合JPA实现多数据源及读写分离](https://juejin.cn/post/6844904175424241677)
 * [如何在Spring-Data-Jpa下快速实现读写分离](https://www.zedd.dev/2016/11/08/%E5%A6%82%E4%BD%95%E5%9C%A8Spring-Data-Jpa%E4%B8%8B%E5%BF%AB%E9%80%9F%E5%AE%9E%E7%8E%B0%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB/)
 * [自定义Repository对Spring Data JPA进行扩展](https://zhuanlan.zhihu.com/p/142823081)
 * [Spring Data JPA之Auditing](https://www.jianshu.com/p/4777c1c1195b)
-
+* [JPA / Hibernate 的逻辑删除](http://blog.prophet-xu.com/2018/09/19/jpa-soft-delete-with-hibernate/)
+* [在 Spring Data Jpa 中使用逻辑删除需做的工作](https://www.iteye.com/blog/someok-1616651)
+* [JPA 表租户 SQL解析实现](https://blog.csdn.net/fall_hat/article/details/104802435)
 
 ## Java
 * [1、Java 基础](http://www.cyc2018.xyz/#java)
